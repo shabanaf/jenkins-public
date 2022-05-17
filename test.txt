@@ -1,4 +1,2 @@
 
-hello welcome to my world.
-i want to learn git here and practice.
-
+hello welcome to my world
