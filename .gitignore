@@ -1,4 +1,6 @@
 *.java
 *.exe
 *.log
+*.class
+*.swp
 
